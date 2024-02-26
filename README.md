@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRATHAM PATEL</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [pratham123kp@gmail.com](pratham123kp@gmail.com)
+- 👨‍💻 All of my projects are available at [https://praathampatel.netlify.app/](https://praathampatel.netlify.app/)
 
 - 💬 Ask me about **react, Java ,MySql**
 
